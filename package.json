@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@symplr-ux/alloy-components": "^1.15.0",
+    "@symplr-ux/alloy-icons": "^1.15.0",
+    "@symplr-ux/alloy-theme": "^1.15.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -39,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.53.0"
   }
 }

@@ -1,26 +1,75 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.scss";
+import {
+    SymplStepper,
+    SymplStep,
+    SymplFileSelector,
+    SymplFooter,
+    SymplPrimaryButton,
+    SymplDataGrid,
+    SymplDgRow,
+    SymplDgHead,
+    SymplDgHeaderCell,
+    SymplDgCell,
+    SymplDgBody,
+    SymplDgFoot,
+    SymplSecondaryButton
+} from "@symplr-ux/alloy-components/dist/react-bindings";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <>
+            <form>
+                <SymplStepper activeIndex={0}>
+                    <SymplStep name='Select File'>
+                        <SymplSecondaryButton text='Download CSV template'></SymplSecondaryButton>
+                        <p>Select a comma-delimited (CSV) file to upload</p>
+                        <SymplFileSelector icon='si-upload' maxFiles={1} accept='.csv' label='Select...'></SymplFileSelector>
+                    </SymplStep>
+                    <SymplStep name='Upload'>
+                        <SymplPrimaryButton text='Upload'></SymplPrimaryButton>
+                    </SymplStep>
+                    <SymplStep name='Verify and Import'>
+                        <SymplDataGrid title='Instructor Lead Classes' selectionMode='checkbox' infinite maxHeight='300px'>
+                            <SymplDgHead sticky={true} slot='header'>
+                                <SymplDgRow>
+                                    <SymplDgHeaderCell>Class Name</SymplDgHeaderCell>
+                                    <SymplDgHeaderCell>Session</SymplDgHeaderCell>
+                                    <SymplDgHeaderCell>Room</SymplDgHeaderCell>
+                                </SymplDgRow>
+                            </SymplDgHead>
+                            <SymplDgBody slot='body'>
+                                <SymplDgRow>
+                                    <SymplDgCell>Intro to SQL</SymplDgCell>
+                                    <SymplDgCell>#2</SymplDgCell>
+                                    <SymplDgCell>301</SymplDgCell>
+                                </SymplDgRow>
+                                <SymplDgRow>
+                                    <SymplDgCell>Intermediate SQL</SymplDgCell>
+                                    <SymplDgCell>#2</SymplDgCell>
+                                    <SymplDgCell>10B</SymplDgCell>
+                                </SymplDgRow>
+                                <SymplDgRow>
+                                    <SymplDgCell>Advanced SQL</SymplDgCell>
+                                    <SymplDgCell>#2</SymplDgCell>
+                                    <SymplDgCell>22-b</SymplDgCell>
+                                </SymplDgRow>
+                                <SymplDgRow>
+                                    <SymplDgCell>Intro to graphQL</SymplDgCell>
+                                    <SymplDgCell>#2</SymplDgCell>
+                                    <SymplDgCell>18</SymplDgCell>
+                                </SymplDgRow>
+                            </SymplDgBody>
+                            <SymplDgFoot slot='footer'>
+                                <div></div>
+                            </SymplDgFoot>
+                        </SymplDataGrid>
+                        <SymplPrimaryButton text='Import'></SymplPrimaryButton>
+                    </SymplStep>
+                </SymplStepper>
+            </form>
+            <SymplFooter year='2022'></SymplFooter>
+        </>
+    );
 }
 
 export default App;

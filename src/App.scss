@@ -1,0 +1,10 @@
+@use '@symplr-ux/alloy-theme/dist/scss/1-tools' as symplr-tools;
+@import '@symplr-ux/alloy-theme/dist/scss/0-settings/typography.scss';
+
+form {
+  padding: 1em;
+  height: calc(100vh - 6em);
+  p {
+    font-size: $font-size-md;
+  }
+}
