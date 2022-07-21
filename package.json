@@ -2,6 +2,7 @@
   "name": "alloy-react-testbed",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://msaelens-symplr.github.io/alloy-react-testbed",
   "dependencies": {
     "@symplr-ux/alloy-components": "^1.15.0",
     "@symplr-ux/alloy-icons": "^1.15.0",
@@ -21,6 +22,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "pre-deploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -44,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "sass": "^1.53.0"
   }
 }
