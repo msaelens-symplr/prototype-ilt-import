@@ -15,6 +15,10 @@ import {
     SymplSecondaryButton
 } from "@symplr-ux/alloy-components/dist/react-bindings";
 
+function onFileSelected(fileEvent: CustomEvent<File | File[]>) {
+    console.log(fileEvent);
+}
+
 function App() {
     return (
         <>
@@ -23,7 +27,12 @@ function App() {
                     <SymplStep name='Select File'>
                         <SymplSecondaryButton text='Download CSV template'></SymplSecondaryButton>
                         <p>Select a comma-delimited (CSV) file to upload</p>
-                        <SymplFileSelector icon='si-upload' maxFiles={1} accept='.csv' label='Select...'></SymplFileSelector>
+                        <SymplFileSelector
+                            onSymplvalue={onFileSelected}
+                            icon='si-upload'
+                            maxFiles={1}
+                            accept='.csv'
+                            label='Select...'></SymplFileSelector>
                     </SymplStep>
                     <SymplStep name='Upload'>
                         <SymplPrimaryButton text='Upload'></SymplPrimaryButton>
