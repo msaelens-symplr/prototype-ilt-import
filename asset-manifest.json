@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alloy-react-testbed/static/css/main.637168f5.css",
-    "main.js": "/alloy-react-testbed/static/js/main.25222897.js",
+    "main.js": "/alloy-react-testbed/static/js/main.6b9e6101.js",
     "polyfills-dom.js": "/alloy-react-testbed/static/js/polyfills-dom.dd50c813.chunk.js",
     "polyfills-core-js.js": "/alloy-react-testbed/static/js/polyfills-core-js.7944678e.chunk.js",
     "static/js/967.e0c87599.chunk.js": "/alloy-react-testbed/static/js/967.e0c87599.chunk.js",
@@ -83,7 +83,7 @@
     "static/media/lato-v17-latin-ext_latin-100italic.woff2": "/alloy-react-testbed/static/media/lato-v17-latin-ext_latin-100italic.52b379114e71e9108091.woff2",
     "index.html": "/alloy-react-testbed/index.html",
     "main.637168f5.css.map": "/alloy-react-testbed/static/css/main.637168f5.css.map",
-    "main.25222897.js.map": "/alloy-react-testbed/static/js/main.25222897.js.map",
+    "main.6b9e6101.js.map": "/alloy-react-testbed/static/js/main.6b9e6101.js.map",
     "polyfills-dom.dd50c813.chunk.js.map": "/alloy-react-testbed/static/js/polyfills-dom.dd50c813.chunk.js.map",
     "polyfills-core-js.7944678e.chunk.js.map": "/alloy-react-testbed/static/js/polyfills-core-js.7944678e.chunk.js.map",
     "967.e0c87599.chunk.js.map": "/alloy-react-testbed/static/js/967.e0c87599.chunk.js.map",
@@ -116,6 +116,6 @@
   },
   "entrypoints": [
     "static/css/main.637168f5.css",
-    "static/js/main.25222897.js"
+    "static/js/main.6b9e6101.js"
   ]
 }
