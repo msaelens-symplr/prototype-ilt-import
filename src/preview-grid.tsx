@@ -15,20 +15,19 @@ interface Props {
     dataRows: string[][];
 }
 
-function renderRowCells(row: any): any {
-    const result = row.map((cellData: any, index: number) => {
+function renderRowCells(row: string[]): JSX.Element[] {
+    return row.map((cellData: any, index: number) => {
         return <SymplDgCell key={index}>{cellData}</SymplDgCell>;
     });
-    return result;
 }
 
-function renderRows(rows: any): any {
+function renderRows(rows: string[][]): JSX.Element[] {
     return rows.map((row: any, index: number) => {
         return <SymplDgRow key={index}>{renderRowCells(row)}</SymplDgRow>;
     });
 }
 
-function renderHeader(headers: any): any {
+function renderHeaderCells(headers: string[]): JSX.Element[] {
     return headers.map((header: any, index: number) => {
         return <SymplDgHeaderCell key={index}>{header}</SymplDgHeaderCell>;
     });
@@ -39,7 +38,7 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
         return <></>;
     }
 
-    const renderedHeader = renderHeader(headerRow);
+    const renderedHeader = renderHeaderCells(headerRow);
     const renderedRows = renderRows(dataRows);
 
     return (
