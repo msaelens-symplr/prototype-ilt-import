@@ -44,7 +44,10 @@ const styles = {
     } as CSSProperties,
     progressBar: {
         backgroundColor: "green"
-    } as CSSProperties
+    } as CSSProperties,
+    buttonRow: {
+        marginTop: "1em"
+    }
 };
 
 function App() {
@@ -89,7 +92,9 @@ function App() {
                         {activeIndex === 1 && (
                             <>
                                 <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
-                                <SymplPrimaryButton text='Import'></SymplPrimaryButton>
+                                <div style={styles.buttonRow}>
+                                    <SymplPrimaryButton text='Import'></SymplPrimaryButton>
+                                </div>
                             </>
                         )}
                     </SymplStep>
