@@ -1,0 +1,601 @@
+Class Title,Course Title,Session Title,Start Date & Time,End Date & Time,Location,Room,Class Notes,Max Enroll,Min Enroll,Instructor ID,Coordinator,Originator,Type,Status,Credit Types,Credit Value
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 8:00 AM,12/22/2020 9:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session A",12/22/2020 9:00 AM,12/22/2020 10:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session B",12/22/2020 10:00 AM,12/22/2020 11:00 AM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session C",12/22/2020 11:00 AM,12/22/2020 12:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session D",12/22/2020 12:00 PM,12/22/2020 1:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session E",12/22/2020 1:00 PM,12/22/2020 2:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session F",12/22/2020 2:00 PM,12/22/2020 3:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session G",12/22/2020 3:00 PM,12/22/2020 4:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session H",12/22/2020 4:00 PM,12/22/2020 5:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"BLS December 22, 2020",BLS,"Session I",12/22/2020 5:00 PM,12/22/2020 6:00 PM,RMC - Anniston,Large Classroom,Class is about BLS,15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session A",01/01/2001 8:00 AM,01/01/2001 9:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session B",01/01/2001 9:00 AM,01/01/2001 10:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session C",01/01/2001 10:00 AM,01/01/2001 11:00 AM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session D",01/01/2001 11:00 AM,01/01/2001 12:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session E",01/01/2001 12:00 PM,01/01/2001 1:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session F",01/01/2001 1:00 PM,01/01/2001 2:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session G",01/01/2001 2:00 PM,01/01/2001 3:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session H",01/01/2001 3:00 PM,01/01/2001 4:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session I",01/01/2001 4:00 PM,01/01/2001 5:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
+"Cooking Fries","Cooking Fries","Session J",01/01/2001 5:00 PM,01/01/2001 6:00 PM,Cafeteria,Large Classroom,Class is about "Cooking Fries",15,1,33,Coach Buzzcut,Superadmin,Instructor-Led,Active,AAC,3
