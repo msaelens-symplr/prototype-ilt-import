@@ -86,8 +86,12 @@ function App() {
                         </CSVReader>
                     </SymplStep>
                     <SymplStep name='Preview and Import' icon='si-import'>
-                        <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
-                        <SymplPrimaryButton text='Import'></SymplPrimaryButton>
+                        {activeIndex === 1 && (
+                            <>
+                                <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
+                                <SymplPrimaryButton text='Import'></SymplPrimaryButton>
+                            </>
+                        )}
                     </SymplStep>
                     <SymplStep name='Verify' icon='si-verified'>
                         <SymplDataGrid title='Instructor-Led Classes' selectionMode='checkbox' infinite maxHeight='300px'>
