@@ -1,8 +1,8 @@
 {
-  "name": "alloy-react-testbed",
+  "name": "prototype-ilt-import",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://msaelens-symplr.github.io/alloy-react-testbed",
+  "homepage": "https://msaelens-symplr.github.io/prototype-ilt-import",
   "dependencies": {
     "@symplr-ux/alloy-components": "^1.15.0",
     "@symplr-ux/alloy-icons": "^1.15.0",
@@ -16,6 +16,7 @@
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-papaparse": "^4.0.2",
     "react-scripts": "5.0.1",
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
