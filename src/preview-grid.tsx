@@ -43,28 +43,9 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
     const renderedRows = renderRows(dataRows);
 
     return (
-        <SymplDataGrid title='Instructor-Led Classes' selectionMode='checkbox' infinite maxHeight='300px'>
+        <SymplDataGrid title='Instructor-Led Classes' selectionMode='checkbox' infinite maxHeight='600px'>
             <SymplDgHead sticky={true} slot='header'>
-                {/* <SymplDgRow>{renderedHeader}</SymplDgRow> */}
-                <SymplDgRow>
-                    <SymplDgHeaderCell>Class Title</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Course Title</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Session Title</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Start Date and Time</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>End Date and Time</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Location</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Room</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Class Notes</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Max Enroll</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Min Enroll</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Instructor ID</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Coordinator</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Originator</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Type</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Status</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Credit Types</SymplDgHeaderCell>
-                    <SymplDgHeaderCell>Credit Value</SymplDgHeaderCell>
-                </SymplDgRow>
+                <SymplDgRow>{renderedHeader}</SymplDgRow>
             </SymplDgHead>
             <SymplDgBody slot='body'>{renderedRows}</SymplDgBody>
             <SymplDgFoot slot='footer'>
