@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import "./App.scss";
 import {
     SymplDataGrid,
@@ -6,7 +7,8 @@ import {
     SymplDgHeaderCell,
     SymplDgCell,
     SymplDgBody,
-    SymplDgFoot
+    SymplDgFoot,
+    SymplSpinner
 } from "@symplr-ux/alloy-components/dist/react-bindings";
 import { FunctionComponent } from "react";
 import { validityMessage } from "./dataValidation";
@@ -48,13 +50,13 @@ function renderRowCells(headers: string[], row: string[]): JSX.Element[] {
     return rowCells;
 }
 
-function renderRows(headers: string[], rows: string[][]): JSX.Element[] {
+async function renderRows(headers: string[], rows: string[][]): Promise<JSX.Element[]> {
     return rows.map((row: any, index: number) => {
         return <SymplDgRow key={index}>{renderRowCells(headers, row)}</SymplDgRow>;
     });
 }
 
-function renderHeaderCells(headers: string[]): JSX.Element[] {
+async function renderHeaderCells(headers: string[]): Promise<JSX.Element[]> {
     var headerCells: JSX.Element[] = [];
 
     headerCells.push(<SymplDgHeaderCell key={0}>Status</SymplDgHeaderCell>);
@@ -65,12 +67,24 @@ function renderHeaderCells(headers: string[]): JSX.Element[] {
 }
 
 const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
-    if (dataRows.length === 0) {
-        return <></>;
+    const [renderedHeader, setRenderedHeader] = useState(new Array<JSX.Element>);
+    const [renderedRows, setRenderedRows] = useState(new Array<JSX.Element>);
+
+    useEffect(() => {
+        (async () => {
+            if (renderedHeader.length === 0) {
+                setRenderedHeader(await renderHeaderCells(headerRow));
+            }
+            if (renderedRows.length === 0) {
+                setRenderedRows(await renderRows(headerRow, dataRows));
+            }
+        })();
+    });
+
+    if (renderedRows.length < dataRows.length) {
+        return <SymplSpinner></SymplSpinner>
     }
 
-    const renderedHeader = renderHeaderCells(headerRow);
-    const renderedRows = renderRows(headerRow, dataRows);
     const title = `Instructor-Led Classes, ${dataRows.length} sessions`;
 
     return (
@@ -79,9 +93,6 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
                 <SymplDgRow>{renderedHeader}</SymplDgRow>
             </SymplDgHead>
             <SymplDgBody slot='body'>{renderedRows}</SymplDgBody>
-            <SymplDgFoot slot='footer'>
-                <div></div>
-            </SymplDgFoot>
         </SymplDataGrid>
     );
 };
