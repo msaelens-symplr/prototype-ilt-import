@@ -9,42 +9,48 @@ import {
     SymplDgFoot
 } from "@symplr-ux/alloy-components/dist/react-bindings";
 import { FunctionComponent } from "react";
+import { validityMessage } from "./dataValidation";
 
 interface Props {
     headerRow: string[];
     dataRows: string[][];
 }
 
-function rowIsValid(cells: string[]): boolean {
-    return cells[2] !== "Session C";
+function rowStatus(errorMessage: string): string {
+    return errorMessage.length === 0 ? "Valid" : errorMessage;
 }
 
-function rowStatus(cells: string[]): string {
-    return rowIsValid(cells) ? "Valid" : "Invalid";
+function rowStatusIcon(valid: boolean): string {
+    return valid ? "si-check" : "si-x";
 }
 
-function rowStatusIcon(row: string[]): string {
-    return rowIsValid(row) ? "si-check" : "si-x";
-}
-
-function renderRowCells(row: string[]): JSX.Element[] {
-    var rowCells: JSX.Element[] = [];
+function renderRowCells(headers: string[], row: string[]): JSX.Element[] {
+    let rowCells: JSX.Element[] = [];
+    const validMessage: string = validityMessage(headers, row);
 
     rowCells.push(
         <SymplDgCell key={0}>
-            <i className={rowStatusIcon(row)}></i>
-            {rowStatus(row)}
+            <i className={rowStatusIcon(validMessage.length === 0)}></i>
+            {rowStatus(validMessage)}
         </SymplDgCell>
     );
-    row.map((cellData: any, index: number) => {
-        rowCells.push(<SymplDgCell key={index + 1}>{cellData}</SymplDgCell>);
+    row.map((cellData: string, index: number) => {
+        rowCells.push(
+            cellData.length > 0 ? (
+                <SymplDgCell key={index + 1}>{cellData}</SymplDgCell>
+            ) : (
+                <SymplDgCell key={index + 1}>
+                    <span style={{ color: "red" }}>Required*</span>
+                </SymplDgCell>
+            )
+        );
     });
     return rowCells;
 }
 
-function renderRows(rows: string[][]): JSX.Element[] {
+function renderRows(headers: string[], rows: string[][]): JSX.Element[] {
     return rows.map((row: any, index: number) => {
-        return <SymplDgRow key={index}>{renderRowCells(row)}</SymplDgRow>;
+        return <SymplDgRow key={index}>{renderRowCells(headers, row)}</SymplDgRow>;
     });
 }
 
@@ -64,7 +70,7 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
     }
 
     const renderedHeader = renderHeaderCells(headerRow);
-    const renderedRows = renderRows(dataRows);
+    const renderedRows = renderRows(headerRow, dataRows);
     const title = `Instructor-Led Classes, ${dataRows.length} sessions`;
 
     return (
