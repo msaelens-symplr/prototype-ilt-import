@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Live Demo
+
+You can run a live demo of this prototype on its [GitHub Page](https://msaelens-symplr.github.io/prototype-ilt-import)
+
+# Getting Started with Create ILT Prototype
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
