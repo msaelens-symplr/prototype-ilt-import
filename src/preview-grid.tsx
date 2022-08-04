@@ -7,7 +7,6 @@ import {
     SymplDgHeaderCell,
     SymplDgCell,
     SymplDgBody,
-    SymplDgFoot,
     SymplSpinner
 } from "@symplr-ux/alloy-components/dist/react-bindings";
 import { FunctionComponent } from "react";
@@ -36,7 +35,7 @@ function renderRowCells(headers: string[], row: string[]): JSX.Element[] {
             {rowStatus(validMessage)}
         </SymplDgCell>
     );
-    row.map((cellData: string, index: number) => {
+    row.forEach((cellData: string, index: number) => {
         rowCells.push(
             cellData.length > 0 ? (
                 <SymplDgCell key={index + 1}>{cellData}</SymplDgCell>
@@ -60,15 +59,15 @@ async function renderHeaderCells(headers: string[]): Promise<JSX.Element[]> {
     var headerCells: JSX.Element[] = [];
 
     headerCells.push(<SymplDgHeaderCell key={0}>Status</SymplDgHeaderCell>);
-    headers.map((header: any, index: number) => {
+    headers.forEach((header: any, index: number) => {
         headerCells.push(<SymplDgHeaderCell key={index + 1}>{header}</SymplDgHeaderCell>);
     });
     return headerCells;
 }
 
 const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
-    const [renderedHeader, setRenderedHeader] = useState(new Array<JSX.Element>);
-    const [renderedRows, setRenderedRows] = useState(new Array<JSX.Element>);
+    const [renderedHeader, setRenderedHeader] = useState(new Array<JSX.Element>());
+    const [renderedRows, setRenderedRows] = useState(new Array<JSX.Element>());
 
     useEffect(() => {
         (async () => {
@@ -82,7 +81,11 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
     });
 
     if (renderedRows.length < dataRows.length) {
-        return <SymplSpinner></SymplSpinner>
+        return (
+            <div>
+                <SymplSpinner></SymplSpinner>
+            </div>
+        );
     }
 
     const title = `Instructor-Led Classes, ${dataRows.length} sessions`;

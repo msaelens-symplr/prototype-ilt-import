@@ -1,19 +1,6 @@
 import "./App.scss";
 import { CSSProperties, useState } from "react";
-import {
-    SymplStepper,
-    SymplStep,
-    SymplFooter,
-    SymplPrimaryButton,
-    SymplDataGrid,
-    SymplDgRow,
-    SymplDgHead,
-    SymplDgHeaderCell,
-    SymplDgCell,
-    SymplDgBody,
-    SymplDgFoot,
-    SymplSecondaryButton
-} from "@symplr-ux/alloy-components/dist/react-bindings";
+import { SymplPrimaryButton, SymplSecondaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
 import PreviewGrid from "./preview-grid";
 import { useCSVReader } from "react-papaparse";
 
