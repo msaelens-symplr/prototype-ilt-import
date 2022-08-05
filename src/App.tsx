@@ -1,8 +1,9 @@
 import "./App.scss";
 import { CSSProperties, useState } from "react";
-import { SymplPrimaryButton, SymplSecondaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
+import { SymplPrimaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
 import PreviewGrid from "./preview-grid";
 import { useCSVReader } from "react-papaparse";
+import DownloadButton from "./DownloadButton";
 
 const styles = {
     csvReader: {
@@ -41,10 +42,11 @@ function App() {
     const { CSVReader } = useCSVReader();
     const [headerRow, setHeaderRow] = useState([]);
     const [dataRows, setDataRows] = useState([]);
+
     return (
         <form>
             <p>Download a comma-delimited (CSV) template, if you don't have one already.</p>
-            <SymplSecondaryButton text='Download CSV template'></SymplSecondaryButton>
+            <DownloadButton text='Download CSV Template'></DownloadButton>
             <br />
             <p>Select a comma-delimited (CSV) file to upload</p>
             <CSVReader
