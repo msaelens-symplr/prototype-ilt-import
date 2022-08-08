@@ -8,7 +8,7 @@ import {
     SymplDgBody
 } from "@symplr-ux/alloy-components/dist/react-bindings";
 import { FunctionComponent, useState } from "react";
-import { validityMessage } from "./dataValidation";
+import { columnIsRequired, validityMessage } from "./dataValidation";
 
 interface Props {
     headerRow: string[];
@@ -35,7 +35,7 @@ function renderRowCells(headers: string[], row: string[]): JSX.Element[] {
     );
     row.forEach((cellData: string, index: number) => {
         rowCells.push(
-            cellData.length > 0 ? (
+            cellData.length > 0 || !columnIsRequired(headers[index]) ? (
                 <SymplDgCell key={index + 1}>{cellData}</SymplDgCell>
             ) : (
                 <SymplDgCell key={index + 1}>
