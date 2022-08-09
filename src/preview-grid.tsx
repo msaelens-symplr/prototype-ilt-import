@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import "./App.scss";
 import {
     SymplDataGrid,
@@ -6,11 +5,10 @@ import {
     SymplDgHead,
     SymplDgHeaderCell,
     SymplDgCell,
-    SymplDgBody,
-    SymplSpinner
+    SymplDgBody
 } from "@symplr-ux/alloy-components/dist/react-bindings";
-import { FunctionComponent } from "react";
-import { validityMessage } from "./dataValidation";
+import { FunctionComponent, useState } from "react";
+import { columnIsRequired, validityMessage } from "./dataValidation";
 
 interface Props {
     headerRow: string[];
@@ -37,7 +35,7 @@ function renderRowCells(headers: string[], row: string[]): JSX.Element[] {
     );
     row.forEach((cellData: string, index: number) => {
         rowCells.push(
-            cellData.length > 0 ? (
+            cellData.length > 0 || !columnIsRequired(headers[index]) ? (
                 <SymplDgCell key={index + 1}>{cellData}</SymplDgCell>
             ) : (
                 <SymplDgCell key={index + 1}>
@@ -49,13 +47,15 @@ function renderRowCells(headers: string[], row: string[]): JSX.Element[] {
     return rowCells;
 }
 
-async function renderRows(headers: string[], rows: string[][]): Promise<JSX.Element[]> {
-    return rows.map((row: any, index: number) => {
-        return <SymplDgRow key={index}>{renderRowCells(headers, row)}</SymplDgRow>;
-    });
+function renderRows(end: number, headers: string[], rows: string[][]): JSX.Element[] {
+    let result: JSX.Element[] = [];
+    for (let index = 0; index <= end; index += 1) {
+        result.push(<SymplDgRow key={index}>{renderRowCells(headers, rows[index])}</SymplDgRow>);
+    }
+    return result;
 }
 
-async function renderHeaderCells(headers: string[]): Promise<JSX.Element[]> {
+function renderHeaderCells(headers: string[]): JSX.Element[] {
     var headerCells: JSX.Element[] = [];
 
     headerCells.push(<SymplDgHeaderCell key={0}>Status</SymplDgHeaderCell>);
@@ -66,37 +66,33 @@ async function renderHeaderCells(headers: string[]): Promise<JSX.Element[]> {
 }
 
 const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
-    const [renderedHeader, setRenderedHeader] = useState(new Array<JSX.Element>());
-    const [renderedRows, setRenderedRows] = useState(new Array<JSX.Element>());
+    const increment: number = 20;
+    const renderedHeader = renderHeaderCells(headerRow);
+    const [endRow, setEndRow] = useState(Math.min(increment - 1, dataRows.length - 1));
+    const title = `Instructor-Led Classes, ${dataRows.length} sessions, ${endRow + 1} rendered.`;
 
-    useEffect(() => {
-        (async () => {
-            if (renderedHeader.length === 0) {
-                setRenderedHeader(await renderHeaderCells(headerRow));
-            }
-            if (renderedRows.length === 0) {
-                setRenderedRows(await renderRows(headerRow, dataRows));
-            }
-        })();
-    });
+    const onInfiniteScroll = (e: CustomEvent<void>) => {
+        if (endRow + increment > dataRows.length) {
+            setEndRow(dataRows.length - 1);
+        } else {
+            setEndRow(endRow + increment);
+        }
+    };
 
-    if (renderedRows.length < dataRows.length) {
-        return (
-            <div>
-                <SymplSpinner></SymplSpinner>
-            </div>
-        );
-    }
-
-    const title = `Instructor-Led Classes, ${dataRows.length} sessions`;
+    const renderedRows = renderRows(endRow, headerRow, dataRows);
 
     return (
-        <SymplDataGrid title={title} selectionMode='checkbox' maxHeight='600px'>
-            <SymplDgHead sticky={true} slot='header'>
-                <SymplDgRow>{renderedHeader}</SymplDgRow>
-            </SymplDgHead>
-            <SymplDgBody slot='body'>{renderedRows}</SymplDgBody>
-        </SymplDataGrid>
+        <>
+            <h4>{title}</h4>
+            <SymplDataGrid selectionMode='checkbox' infinite maxHeight='600px'>
+                <SymplDgHead sticky={true} slot='header'>
+                    <SymplDgRow>{renderedHeader}</SymplDgRow>
+                </SymplDgHead>
+                <SymplDgBody slot='body' onInfiniteScroll={onInfiniteScroll}>
+                    {renderedRows}
+                </SymplDgBody>
+            </SymplDataGrid>
+        </>
     );
 };
 

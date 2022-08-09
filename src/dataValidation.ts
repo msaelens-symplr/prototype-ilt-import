@@ -12,7 +12,7 @@ export function csvColumnsToRowObject(columnNames: string[], columns: string[]):
 }
 
 function columnPresent(row: any, name: string): boolean {
-    if (typeof row[name] === undefined || row[name].length === 0) {
+    if (typeof row[name] === 'undefined' || row[name].length === 0) {
         return false;
     }
     return true;
@@ -21,23 +21,26 @@ function columnPresent(row: any, name: string): boolean {
 const requiredColumns: string[] = [
     "Class Title",
     "Course Title",
-    "Session Title",
-    "Session Title",
+    // "Session Title",
     "Start Date & Time",
     "End Date & Time",
     "Location",
     "Room",
-    "Class Notes",
+    // "Class Notes",
     "Max Enroll",
-    "Min Enroll",
-    "Instructor ID",
-    "Coordinator",
-    "Originator",
-    "Type",
-    "Status",
-    "Credit Types",
-    "Credit Value"
+    // "Min Enroll",
+    // "Instructor ID",
+    // "Coordinator",
+    // "Originator",
+    // "Type",
+    // "Status",
+    // "Credit Types",
+    // "Credit Value"
 ];
+
+export function columnIsRequired(column: string) {
+    return requiredColumns.includes(column);
+}
 
 function getFirstMissingRequiredColumn(row: object): string {
     let result = "";
