@@ -35,6 +35,9 @@ const styles = {
     } as CSSProperties,
     buttonRow: {
         marginTop: "1em"
+    },
+    invisible: {
+        visibility: "hidden"
     }
 };
 
@@ -43,6 +46,14 @@ function App() {
     const [headerRow, setHeaderRow] = useState([]);
     const [dataRows, setDataRows] = useState([]);
 
+    function beforeFirstChunk() {
+        console.log("beforeFirstChunk");
+    }
+
+    function chunk() {
+        console.log("chunk");
+    }
+
     return (
         <form>
             <p>Download a comma-delimited (CSV) template, if you don't have one already.</p>
@@ -50,6 +61,7 @@ function App() {
             <br />
             <p>Select a comma-delimited (CSV) file to upload</p>
             <CSVReader
+                config={{ localChunkSize: 128, beforeFirstChunk: beforeFirstChunk, chunk: chunk }}
                 onUploadAccepted={(results: any) => {
                     setHeaderRow(results.data[0]);
                     setDataRows(results.data.splice(1));
@@ -61,12 +73,9 @@ function App() {
                                 Select...
                             </button>
                             <div style={styles.acceptedFile}>{acceptedFile ? acceptedFile.name : ""}</div>
-                            <button {...getRemoveFileProps()} style={styles.button}>
+                            <button {...getRemoveFileProps()} style={acceptedFile ? styles.button : styles.invisible}>
                                 Remove
                             </button>
-                        </div>
-                        <div style={styles.progressBar}>
-                            <ProgressBar />
                         </div>
                     </>
                 )}

@@ -48,12 +48,10 @@ function renderRowCells(headers: string[], row: string[]): JSX.Element[] {
 }
 
 function renderRows(end: number, headers: string[], rows: string[][]): JSX.Element[] {
-    const startTime = Date.now();
     let result: JSX.Element[] = [];
     for (let index = 0; index <= end; index += 1) {
         result.push(<SymplDgRow key={index}>{renderRowCells(headers, rows[index])}</SymplDgRow>);
     }
-    console.info(`renderRows [0..${end - 1}] took ${Date.now() - startTime} ms.`);
     return result;
 }
 
