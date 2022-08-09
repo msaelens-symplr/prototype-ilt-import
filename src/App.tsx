@@ -54,7 +54,7 @@ function App() {
                     setHeaderRow(results.data[0]);
                     setDataRows(results.data.splice(1));
                 }}>
-                {({ getRootProps, acceptedFile, _, getRemoveFileProps }: any) => (
+                {({ getRootProps, acceptedFile, ProgressBar, getRemoveFileProps }: any) => (
                     <>
                         <div style={styles.csvReader}>
                             <button type='button' {...getRootProps()} style={styles.button}>
@@ -64,6 +64,9 @@ function App() {
                             <button {...getRemoveFileProps()} style={styles.button}>
                                 Remove
                             </button>
+                        </div>
+                        <div style={styles.progressBar}>
+                            <ProgressBar />
                         </div>
                     </>
                 )}
