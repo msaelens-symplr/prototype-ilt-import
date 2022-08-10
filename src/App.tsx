@@ -4,6 +4,7 @@ import { SymplPrimaryButton } from "@symplr-ux/alloy-components/dist/react-bindi
 import PreviewGrid from "./preview-grid";
 import { useCSVReader } from "react-papaparse";
 import DownloadButton from "./DownloadButton";
+import FilePicker from "./FilePicker";
 
 const styles = {
     csvReader: {
@@ -45,14 +46,7 @@ function App() {
     const { CSVReader } = useCSVReader();
     const [headerRow, setHeaderRow] = useState([]);
     const [dataRows, setDataRows] = useState([]);
-
-    function beforeFirstChunk() {
-        console.log("beforeFirstChunk");
-    }
-
-    function chunk() {
-        console.log("chunk");
-    }
+    const [selectedFile, setSelectedFile] = useState("");
 
     return (
         <form>
@@ -60,8 +54,8 @@ function App() {
             <DownloadButton text='Download CSV Template'></DownloadButton>
             <br />
             <p>Select a comma-delimited (CSV) file to upload</p>
-            <CSVReader
-                config={{ localChunkSize: 128, beforeFirstChunk: beforeFirstChunk, chunk: chunk }}
+            <FilePicker />
+            {/* <CSVReader
                 onUploadAccepted={(results: any) => {
                     setHeaderRow(results.data[0]);
                     setDataRows(results.data.splice(1));
@@ -79,7 +73,7 @@ function App() {
                         </div>
                     </>
                 )}
-            </CSVReader>
+            </CSVReader> */}
 
             {dataRows.length > 0 && (
                 <>
