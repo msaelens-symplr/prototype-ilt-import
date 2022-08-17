@@ -8,6 +8,9 @@ const styles = {
     } as CSSProperties,
     marginTop: {
         marginTop: "1rem"
+    } as CSSProperties,
+    buttonInline: {
+        marginLeft: "1rem"
     } as CSSProperties
 };
 
@@ -30,9 +33,6 @@ const FilePicker: FunctionComponent<Props> = ({ setFile }) => {
                 setFile(file);
                 setSelectedFileName(file.name);
             })
-            .catch(() => {
-                setFile(null);
-            })
             .finally(() => {
                 setLoading(false);
             });
@@ -42,10 +42,18 @@ const FilePicker: FunctionComponent<Props> = ({ setFile }) => {
         setHasFocus(true);
     }
 
+    function onReset() {
+        setSelectedFileName(noFileMessage);
+        setFile(null);
+    }
+
     return (
         <>
             <SymplSecondaryButton text='Select...' icon='si-download si-sm' onClick={onButtonClick} onFocus={onFocus} />
             <SymplLabel style={styles.spanLabel}>{loading ? loadingMessage : selectedFileName}</SymplLabel>
+            {selectedFileName !== noFileMessage && (
+                <SymplSecondaryButton text='Reset' style={styles.buttonInline} onClick={onReset}></SymplSecondaryButton>
+            )}
             {loading && hasFocus && (
                 <div style={styles.marginTop}>
                     <SymplSpinner />

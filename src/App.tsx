@@ -9,9 +9,6 @@ import Papa from "papaparse";
 const styles = {
     buttonRow: {
         marginTop: "1rem"
-    } as CSSProperties,
-    buttonInline: {
-        marginLeft: "1rem"
     } as CSSProperties
 };
 
@@ -20,19 +17,18 @@ function App() {
     const [dataRows, setDataRows] = useState([]);
 
     function setFileAndParse(file: any) {
-        Papa.parse(file, {
-            complete: (results: any) => {
-                setHeaderRow(results.data[0]);
-                setDataRows(results.data.splice(1));
-            }
-        });
+        if (file !== null) {
+            Papa.parse(file, {
+                complete: (results: any) => {
+                    setHeaderRow(results.data[0]);
+                    setDataRows(results.data.splice(1));
+                }
+            });
+        } else {
+            setHeaderRow([]);
+            setDataRows([]);
+        }
     }
-
-    function onReset() {
-        setHeaderRow([]);
-        setDataRows([]);
-    }
-
     const haveData = dataRows.length > 0;
 
     return (
@@ -44,7 +40,6 @@ function App() {
             <FilePicker setFile={setFileAndParse} />
             {haveData && (
                 <>
-                    <SymplSecondaryButton text='Reset' style={styles.buttonInline} onClick={onReset}></SymplSecondaryButton>
                     <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
                     <div style={styles.buttonRow}>
                         <SymplPrimaryButton text='Import'></SymplPrimaryButton>
