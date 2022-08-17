@@ -33,6 +33,9 @@ const FilePicker: FunctionComponent<Props> = ({ setFile }) => {
                 setFile(file);
                 setSelectedFileName(file.name);
             })
+            .catch(() => {
+                // Do nothing; User canceled.
+            })
             .finally(() => {
                 setLoading(false);
             });

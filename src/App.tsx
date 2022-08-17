@@ -17,6 +17,8 @@ function App() {
     const [dataRows, setDataRows] = useState([]);
 
     function setFileAndParse(file: any) {
+        setHeaderRow([]);
+        setDataRows([]);
         if (file !== null) {
             Papa.parse(file, {
                 complete: (results: any) => {
@@ -24,9 +26,6 @@ function App() {
                     setDataRows(results.data.splice(1));
                 }
             });
-        } else {
-            setHeaderRow([]);
-            setDataRows([]);
         }
     }
     const haveData = dataRows.length > 0;
