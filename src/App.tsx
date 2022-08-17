@@ -1,6 +1,6 @@
 import "./App.scss";
 import { CSSProperties, useState } from "react";
-import { SymplPrimaryButton, SymplSecondaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
+import { SymplPrimaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
 import PreviewGrid from "./preview-grid";
 import DownloadButton from "./DownloadButton";
 import FilePicker from "./FilePicker";

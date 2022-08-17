@@ -6,12 +6,15 @@ const styles = {
     spanLabel: {
         marginLeft: "1rem"
     } as CSSProperties,
-    marginTop: {
-        marginTop: "1rem"
-    } as CSSProperties,
     buttonInline: {
         marginLeft: "1rem"
-    } as CSSProperties
+    } as CSSProperties,
+    spinner: {
+        height: "1.5rem",
+        width: "1.5rem",
+        top: "0.5rem",
+        left: "1rem"
+    }
 };
 
 interface Props {
@@ -54,13 +57,9 @@ const FilePicker: FunctionComponent<Props> = ({ setFile }) => {
         <>
             <SymplSecondaryButton text='Select...' icon='si-download si-sm' onClick={onButtonClick} onFocus={onFocus} />
             <SymplLabel style={styles.spanLabel}>{loading ? loadingMessage : selectedFileName}</SymplLabel>
+            {loading && hasFocus && <SymplSpinner style={styles.spinner} />}
             {selectedFileName !== noFileMessage && (
                 <SymplSecondaryButton text='Reset' style={styles.buttonInline} onClick={onReset}></SymplSecondaryButton>
-            )}
-            {loading && hasFocus && (
-                <div style={styles.marginTop}>
-                    <SymplSpinner />
-                </div>
             )}
         </>
     );
