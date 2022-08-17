@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prototype-ilt-import/static/css/main.d84fed58.css",
-    "main.js": "/prototype-ilt-import/static/js/main.1b609dda.js",
+    "main.js": "/prototype-ilt-import/static/js/main.4ac4f4e8.js",
     "polyfills-dom.js": "/prototype-ilt-import/static/js/polyfills-dom.f3041305.chunk.js",
     "polyfills-core-js.js": "/prototype-ilt-import/static/js/polyfills-core-js.0abddd72.chunk.js",
     "static/js/967.ec27a7d0.chunk.js": "/prototype-ilt-import/static/js/967.ec27a7d0.chunk.js",
@@ -83,7 +83,7 @@
     "static/media/lato-v17-latin-ext_latin-100italic.woff2": "/prototype-ilt-import/static/media/lato-v17-latin-ext_latin-100italic.52b379114e71e9108091.woff2",
     "index.html": "/prototype-ilt-import/index.html",
     "main.d84fed58.css.map": "/prototype-ilt-import/static/css/main.d84fed58.css.map",
-    "main.1b609dda.js.map": "/prototype-ilt-import/static/js/main.1b609dda.js.map",
+    "main.4ac4f4e8.js.map": "/prototype-ilt-import/static/js/main.4ac4f4e8.js.map",
     "polyfills-dom.f3041305.chunk.js.map": "/prototype-ilt-import/static/js/polyfills-dom.f3041305.chunk.js.map",
     "polyfills-core-js.0abddd72.chunk.js.map": "/prototype-ilt-import/static/js/polyfills-core-js.0abddd72.chunk.js.map",
     "967.ec27a7d0.chunk.js.map": "/prototype-ilt-import/static/js/967.ec27a7d0.chunk.js.map",
@@ -116,6 +116,6 @@
   },
   "entrypoints": [
     "static/css/main.d84fed58.css",
-    "static/js/main.1b609dda.js"
+    "static/js/main.4ac4f4e8.js"
   ]
 }
