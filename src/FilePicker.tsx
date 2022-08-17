@@ -20,18 +20,21 @@ const FilePicker: FunctionComponent<Props> = ({ setFile }) => {
     const noFileMessage: string = "";
     const [selectedFileName, setSelectedFileName] = useState(noFileMessage);
     const [hasFocus, setHasFocus] = useState(false);
+    const [loading, setLoading] = useState(false);
 
     function onButtonClick(e: any) {
         setHasFocus(false);
-        setSelectedFileName(loadingMessage);
+        setLoading(true);
         fileOpen({ description: "CSV file", extensions: [".csv"], mimeTypes: ["text/*"] })
             .then((file) => {
                 setFile(file);
                 setSelectedFileName(file.name);
             })
             .catch(() => {
-                setSelectedFileName(noFileMessage);
                 setFile(null);
+            })
+            .finally(() => {
+                setLoading(false);
             });
     }
 
@@ -42,8 +45,8 @@ const FilePicker: FunctionComponent<Props> = ({ setFile }) => {
     return (
         <>
             <SymplSecondaryButton text='Select...' icon='si-download si-sm' onClick={onButtonClick} onFocus={onFocus} />
-            <SymplLabel style={styles.spanLabel}>{selectedFileName}</SymplLabel>
-            {selectedFileName === loadingMessage && hasFocus && (
+            <SymplLabel style={styles.spanLabel}>{loading ? loadingMessage : selectedFileName}</SymplLabel>
+            {loading && hasFocus && (
                 <div style={styles.marginTop}>
                     <SymplSpinner />
                 </div>

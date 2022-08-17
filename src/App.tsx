@@ -20,22 +20,20 @@ function App() {
     const [dataRows, setDataRows] = useState([]);
 
     function setFileAndParse(file: any) {
-        if (file !== null) {
-            Papa.parse(file, {
-                complete: (results: any) => {
-                    setHeaderRow(results.data[0]);
-                    setDataRows(results.data.splice(1));
-                }
-            });
-        } else {
-            onReset();
-        }
+        Papa.parse(file, {
+            complete: (results: any) => {
+                setHeaderRow(results.data[0]);
+                setDataRows(results.data.splice(1));
+            }
+        });
     }
 
     function onReset() {
         setHeaderRow([]);
         setDataRows([]);
     }
+
+    const haveData = dataRows.length > 0;
 
     return (
         <form>
@@ -44,7 +42,7 @@ function App() {
             <br />
             <p>Select a comma-delimited (CSV) file to upload</p>
             <FilePicker setFile={setFileAndParse} />
-            {dataRows.length > 0 && (
+            {haveData && (
                 <>
                     <SymplSecondaryButton text='Reset' style={styles.buttonInline} onClick={onReset}></SymplSecondaryButton>
                     <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
