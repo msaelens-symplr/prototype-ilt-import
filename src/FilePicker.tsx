@@ -56,7 +56,7 @@ const FilePicker: FunctionComponent<Props> = ({ setFile }) => {
     return (
         <>
             <SymplSecondaryButton text='Select...' icon='si-download si-sm' onClick={onButtonClick} onFocus={onFocus} />
-            <SymplLabel style={styles.spanLabel}>{loading ? loadingMessage : selectedFileName}</SymplLabel>
+            <SymplLabel style={styles.spanLabel}>{loading && hasFocus ? loadingMessage : selectedFileName}</SymplLabel>
             {loading && hasFocus && <SymplSpinner style={styles.spinner} />}
             {selectedFileName !== noFileMessage && (
                 <SymplSecondaryButton text='Reset' style={styles.buttonInline} onClick={onReset}></SymplSecondaryButton>
