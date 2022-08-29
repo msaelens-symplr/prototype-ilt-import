@@ -77,6 +77,9 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
         } else {
             setEndRow(endRow + increment);
         }
+        // Tell alloy to turn off spinner for body element.
+        const bodyElement: any = document.getElementById("datagrid-body");
+        bodyElement?.complete();
     };
 
     const renderedRows = renderRows(endRow, headerRow, dataRows);
@@ -88,7 +91,7 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
                 <SymplDgHead sticky={true} slot='header'>
                     <SymplDgRow>{renderedHeader}</SymplDgRow>
                 </SymplDgHead>
-                <SymplDgBody slot='body' onInfiniteScroll={onInfiniteScroll}>
+                <SymplDgBody slot='body' id='datagrid-body' onInfiniteScroll={onInfiniteScroll}>
                     {renderedRows}
                 </SymplDgBody>
             </SymplDataGrid>
