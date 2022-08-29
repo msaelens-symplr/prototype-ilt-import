@@ -7,7 +7,7 @@ import {
     SymplDgCell,
     SymplDgBody
 } from "@symplr-ux/alloy-components/dist/react-bindings";
-import { FunctionComponent, useState } from "react";
+import { FunctionComponent, useRef, useState } from "react";
 import { columnIsRequired, validityMessage } from "./dataValidation";
 
 interface Props {
@@ -70,16 +70,16 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
     const renderedHeader = renderHeaderCells(headerRow);
     const [endRow, setEndRow] = useState(Math.min(increment - 1, dataRows.length - 1));
     const title = `Instructor-Led Classes, ${dataRows.length} sessions, ${endRow + 1} rendered.`;
+    const dataGridBodyRef = useRef<HTMLSymplDgBodyElement | null>(null);
 
-    const onInfiniteScroll = (e: CustomEvent<void>) => {
+    const onInfiniteScroll = () => {
         if (endRow + increment > dataRows.length) {
             setEndRow(dataRows.length - 1);
         } else {
             setEndRow(endRow + increment);
         }
-        // Tell alloy to turn off spinner for body element.
-        const bodyElement: any = document.getElementById("datagrid-body");
-        bodyElement?.complete();
+        // Tell alloy to turn off spinner.
+        dataGridBodyRef.current?.complete();
     };
 
     const renderedRows = renderRows(endRow, headerRow, dataRows);
@@ -91,7 +91,7 @@ const PreviewGrid: FunctionComponent<Props> = ({ headerRow, dataRows }) => {
                 <SymplDgHead sticky={true} slot='header'>
                     <SymplDgRow>{renderedHeader}</SymplDgRow>
                 </SymplDgHead>
-                <SymplDgBody slot='body' id='datagrid-body' onInfiniteScroll={onInfiniteScroll}>
+                <SymplDgBody ref={dataGridBodyRef} slot='body' onInfiniteScroll={onInfiniteScroll}>
                     {renderedRows}
                 </SymplDgBody>
             </SymplDataGrid>
