@@ -1,3 +1,6 @@
+import pad from "lodash/pad";
+import join from "lodash/join";
+
 export function csvColumnsToRowObject(columnNames: string[], columns: string[]): {} {
     let result: any = {};
 
@@ -9,32 +12,44 @@ export function csvColumnsToRowObject(columnNames: string[], columns: string[]):
 }
 
 function columnPresent(row: any, name: string): boolean {
-    if (typeof row[name] === undefined || row[name].length === 0) {
+    if (typeof row[name] === 'undefined' || row[name].length === 0) {
         return false;
     }
     return true;
 }
 
+const requiredColumns: string[] = [
+    "Class Title",
+    "Course Title",
+    // "Session Title",
+    "Start Date & Time",
+    "End Date & Time",
+    "Location",
+    "Room",
+    // "Class Notes",
+    "Max Enroll",
+    // "Min Enroll",
+    // "Instructor ID",
+    // "Coordinator",
+    // "Originator",
+    // "Type",
+    // "Status",
+    // "Credit Types",
+    // "Credit Value"
+];
+
+export function columnIsRequired(column: string) {
+    return requiredColumns.includes(column);
+}
+
 function getFirstMissingRequiredColumn(row: object): string {
-    if (!columnPresent(row, "Class Title")) return "Missing Class Title";
-    if (!columnPresent(row, "Course Title")) return "Missing Course Title";
-    if (!columnPresent(row, "Session Title")) return "Missing Session Title";
-    if (!columnPresent(row, "Session Title")) return "Missing Session Title";
-    if (!columnPresent(row, "Start Date & Time")) return "Missing Start Date & Time";
-    if (!columnPresent(row, "End Date & Time")) return "End Date & Time";
-    if (!columnPresent(row, "Location")) return "Missing Location";
-    if (!columnPresent(row, "Room")) return "Missing Room";
-    if (!columnPresent(row, "Class Notes")) return "Missing Class Notes";
-    if (!columnPresent(row, "Max Enroll")) return "Missing Max Enroll";
-    if (!columnPresent(row, "Min Enroll")) return "Missing Min Enroll";
-    if (!columnPresent(row, "Instructor ID")) return "Missing Instructor ID";
-    if (!columnPresent(row, "Coordinator")) return "Missing Coordinator";
-    if (!columnPresent(row, "Originator")) return "Missing Originator";
-    if (!columnPresent(row, "Type")) return "Missing Type";
-    if (!columnPresent(row, "Status")) return "Missing Status";
-    if (!columnPresent(row, "Credit Types")) return "Missing Credit Types";
-    if (!columnPresent(row, "Credit Value")) return "Missing Credit Value";
-    return "";
+    let result = "";
+    requiredColumns.forEach(column => {
+        if (!columnPresent(row, column) && result.length === 0) {
+            result = `Missing ${column}`;
+        }
+    })
+    return result;
 }
 
 export function validityMessage(columnNames: string[], columns: string[]): string {
@@ -42,4 +57,15 @@ export function validityMessage(columnNames: string[], columns: string[]): strin
     const message = getFirstMissingRequiredColumn(row);
 
     return message;
+}
+
+export function getDataTemplateCsv(): string {
+    let result = join(requiredColumns, ",") + "\n";
+    result += pad("", requiredColumns.length - 1, ",") + "\n";
+    result += pad("", requiredColumns.length - 1, ",") + "\n";
+    result += pad("", requiredColumns.length - 1, ",") + "\n";
+    result += pad("", requiredColumns.length - 1, ",") + "\n";
+    result += pad("", requiredColumns.length - 1, ",") + "\n";
+    result += pad("", requiredColumns.length - 1, ",") + "\n";
+    return result;
 }
