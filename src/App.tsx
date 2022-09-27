@@ -1,22 +1,25 @@
 import "./App.scss";
 import { CSSProperties, useState } from "react";
-import { SymplPrimaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
+import { SymplFileSelector, SymplPrimaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
 import PreviewGrid from "./preview-grid";
 import DownloadButton from "./DownloadButton";
-import FilePicker from "./FilePicker";
 import Papa from "papaparse";
 
 const styles = {
     buttonRow: {
-        marginTop: "1rem"
-    } as CSSProperties
+        marginTop: "16px"
+    } as CSSProperties,
+    label: {
+        margin: "16px 0"
+    }
 };
 
 function App() {
     const [headerRow, setHeaderRow] = useState([]);
     const [dataRows, setDataRows] = useState([]);
 
-    function setFileAndParse(file: any) {
+    function setFileAndParse(event: any) {
+        const file = event.detail;
         setHeaderRow([]);
         setDataRows([]);
         if (file !== null) {
@@ -32,11 +35,16 @@ function App() {
 
     return (
         <form>
-            <p>Download a comma-delimited (CSV) template, if you don't have one already.</p>
-            <DownloadButton text='Download CSV Template'></DownloadButton>
-            <br />
-            <p>Select a comma-delimited (CSV) file to upload</p>
-            <FilePicker setFile={setFileAndParse} />
+            <h6>Download Template</h6>
+            <DownloadButton text='Download Template'></DownloadButton>
+            <h6 style={styles.label}>Upload file to import</h6>
+            <SymplFileSelector
+                maxFileSize={30 * 1024 * 1024}
+                label='Select File'
+                icon='si-upload'
+                accept='.csv,.txt'
+                onSymplvalue={setFileAndParse}
+            />
             {haveData && (
                 <>
                     <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
