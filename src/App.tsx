@@ -1,6 +1,11 @@
 import "./App.scss";
 import { CSSProperties, useState } from "react";
-import { SymplFileSelector, SymplPrimaryButton } from "@symplr-ux/alloy-components/dist/react-bindings";
+import {
+    SymplFileSelector,
+    SymplPrimaryButton,
+    SymplStep,
+    SymplStepper
+} from "@symplr-ux/alloy-components/dist/react-bindings";
 import PreviewGrid from "./preview-grid";
 import DownloadButton from "./DownloadButton";
 import Papa from "papaparse";
@@ -10,8 +15,12 @@ const styles = {
         marginTop: "16px"
     } as CSSProperties,
     label: {
-        margin: "16px 0"
-    }
+        marginBottom: "16px"
+    } as CSSProperties,
+    content: {
+        background: "white",
+        padding: "16px"
+    } as CSSProperties
 };
 
 function App() {
@@ -35,24 +44,38 @@ function App() {
 
     return (
         <form>
-            <h6>Download Template</h6>
-            <DownloadButton text='Download Template'></DownloadButton>
-            <h6 style={styles.label}>Upload file to import</h6>
-            <SymplFileSelector
-                maxFileSize={30 * 1024 * 1024}
-                label='Select File'
-                icon='si-upload'
-                accept='.csv,.txt'
-                onSymplvalue={setFileAndParse}
-            />
-            {haveData && (
-                <>
-                    <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
-                    <div style={styles.buttonRow}>
-                        <SymplPrimaryButton text='Import'></SymplPrimaryButton>
+            <SymplStepper>
+                <SymplStep name='Download Template' icon='si-download'>
+                    <div style={styles.content}>
+                        <h6 style={styles.label}>Download Template</h6>
+                        <DownloadButton text='Download Template'></DownloadButton>
                     </div>
-                </>
-            )}
+                </SymplStep>
+                <SymplStep name='Upload File' icon={haveData ? "si-check" : "si-eye"}>
+                    <div style={styles.content}>
+                        <h6 style={styles.label}>Upload file to import</h6>
+                        <SymplFileSelector
+                            maxFileSize={30 * 1024 * 1024}
+                            label='Select File'
+                            icon='si-upload'
+                            accept='.csv,.txt'
+                            onSymplvalue={setFileAndParse}
+                        />
+                    </div>
+                </SymplStep>
+                <SymplStep name='Preview & Import' icon='si-file-input'>
+                    <div style={styles.content}>
+                        {haveData && (
+                            <>
+                                <PreviewGrid headerRow={headerRow} dataRows={dataRows}></PreviewGrid>
+                                <div style={styles.buttonRow}>
+                                    <SymplPrimaryButton text='Import'></SymplPrimaryButton>
+                                </div>
+                            </>
+                        )}
+                    </div>
+                </SymplStep>
+            </SymplStepper>
         </form>
     );
 }
